@@ -1,0 +1,23 @@
+/**
+ * HR Command Center Theme
+ * Color: Dark with Purple/Indigo (#6366f1)
+ * Note: This is a dark-themed portal
+ */
+:root {
+  --primary: #6366f1;
+  --primary-dark: #4f46e5;
+  --primary-light: #818cf8;
+  --primary-lighter: #a5b4fc;
+  --accent: #8b5cf6;
+  --accent-light: #c4b5fd;
+}
+
+body { 
+  background: #0f172a;
+  color: #e2e8f0;
+}
+
+.user-avatar { 
+  background: linear-gradient(135deg, #818cf8 0%, #6366f1 100%); 
+  color: #1e1b4b; 
+}
