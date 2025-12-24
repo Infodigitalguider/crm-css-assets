@@ -1,0 +1,21 @@
+/**
+ * HR Portal Theme
+ * Color: Green (#059669)
+ */
+:root {
+  --primary: #059669;
+  --primary-dark: #047857;
+  --primary-light: #d1fae5;
+  --primary-lighter: #a7f3d0;
+  --accent: #f59e0b;
+  --accent-light: #fef3c7;
+}
+
+body { 
+  background: linear-gradient(135deg, #e8f5e9 0%, #c8e6c9 50%, #a5d6a7 100%); 
+}
+
+.user-avatar { 
+  background: linear-gradient(135deg, #fbbf24, #f59e0b); 
+  color: #78350f; 
+}

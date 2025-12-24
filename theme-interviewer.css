@@ -1,0 +1,21 @@
+/**
+ * Interviewer Portal Theme
+ * Color: Blue (#2563eb)
+ */
+:root {
+  --primary: #2563eb;
+  --primary-dark: #1d4ed8;
+  --primary-light: #dbeafe;
+  --primary-lighter: #bfdbfe;
+  --accent: #f59e0b;
+  --accent-light: #fef3c7;
+}
+
+body { 
+  background: linear-gradient(135deg, #eff6ff 0%, #dbeafe 50%, #bfdbfe 100%); 
+}
+
+.user-avatar { 
+  background: linear-gradient(135deg, #93c5fd, #60a5fa); 
+  color: #1e40af; 
+}

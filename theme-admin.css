@@ -1,0 +1,21 @@
+/**
+ * Admin Portal Theme
+ * Color: Red (#dc2626)
+ */
+:root {
+  --primary: #dc2626;
+  --primary-dark: #991b1b;
+  --primary-light: #fecaca;
+  --primary-lighter: #fee2e2;
+  --accent: #7c3aed;
+  --accent-light: #ddd6fe;
+}
+
+body { 
+  background: linear-gradient(135deg, #fef2f2 0%, #fee2e2 50%, #fecaca 100%); 
+}
+
+.user-avatar { 
+  background: linear-gradient(135deg, #fecaca 0%, #fca5a5 100%); 
+  color: #991b1b; 
+}
