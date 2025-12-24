@@ -1,0 +1,23 @@
+/**
+ * Kanban Pipeline Theme
+ * Color: Dark with Blue/Cyan accents
+ * Note: This is a dark-themed portal
+ */
+:root {
+  --primary: #3b82f6;
+  --primary-dark: #2563eb;
+  --primary-light: #60a5fa;
+  --primary-lighter: #93c5fd;
+  --accent: #06b6d4;
+  --accent-light: #22d3ee;
+}
+
+body { 
+  background: #0f172a;
+  color: #f8fafc;
+}
+
+.user-avatar { 
+  background: linear-gradient(135deg, #60a5fa 0%, #3b82f6 100%); 
+  color: #1e3a8a; 
+}
