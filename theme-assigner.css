@@ -1,0 +1,21 @@
+/**
+ * Assigner Portal Theme
+ * Color: Purple/Indigo (#5a67d8)
+ */
+:root {
+  --primary: #5a67d8;
+  --primary-dark: #4c51bf;
+  --primary-light: #e0e7ff;
+  --primary-lighter: #c7d2fe;
+  --accent: #7c3aed;
+  --accent-light: #ddd6fe;
+}
+
+body { 
+  background: linear-gradient(135deg, #eef2ff 0%, #e0e7ff 50%, #c7d2fe 100%); 
+}
+
+.user-avatar { 
+  background: linear-gradient(135deg, #a5b4fc 0%, #818cf8 100%); 
+  color: #3730a3; 
+}
