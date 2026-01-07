@@ -352,15 +352,15 @@ body {
   border-collapse: collapse; 
 }
 .data-table th { 
-  background: linear-gradient(135deg, var(--gray-50) 0%, var(--gray-100) 100%); 
+  background: linear-gradient(135deg, #1a365d 0%, #2c5282 100%); 
   padding: 14px 12px; 
   text-align: left; 
-  font-size: 11px; 
+  font-size: 13px; 
   font-weight: 700; 
-  color: var(--gray-600); 
+  color: #ffffff; 
   text-transform: uppercase; 
   letter-spacing: 0.5px; 
-  border-bottom: 2px solid var(--gray-200); 
+  border-bottom: 3px solid #38a169; 
 }
 .data-table td { 
   padding: 14px 12px; 
